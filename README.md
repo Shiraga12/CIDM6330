@@ -7,7 +7,7 @@ Managing patient collections and appointment scheduling is a persistent challeng
 The domain for this problem is healthcare administration, specifically tailored to small-scale diagnostic imaging centers like MRI facilities. The focus is on optimizing administrative tasks such as patient billing, appointment scheduling, and payment tracking.
 
 ## **My Interest**
-I have a personal interest in this domain because I come from a family of small business owners. My dad has managed an MRI center since 2019, and I witnessed firsthand the challenges he faced in managing their patient collection. As someone with a passion for technology, I believe that building software solutions can empower small business owners to streamline their operations and focus on growth.
+I have a personal interest in this domain because I come from a family of small business owners. My dad has managed an MRI center since 2019, and I witnessed firsthand the challenges he faced in managing his patient collection. As someone with a passion for technology, I believe that building software solutions can empower small business owners to streamline their operations and focus on growth.
 
 ## **Proposed System**
 I envision a system called "MRI Care Manager," which would serve as a comprehensive solution for small diagnostic imaging centers. The system would include the following features:
