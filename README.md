@@ -1,22 +1,20 @@
 # CIDM6330
 
-## **Introduction**
-Small businesses often struggle with managing their inventory efficiently. Many small business owners rely on outdated methods such as spreadsheets or even manual tracking, which can lead to errors, lost sales, and overstocking or understocking products. This inefficiency affects their ability to compete with larger businesses that use sophisticated inventory management systems. To address this, I want to explore the development of an inventory management system tailored to the needs of small business owners.  
+## **Problem Description**
+Managing patient collections and appointment scheduling is a persistent challenge for small healthcare businesses, such as independent MRI centers. These businesses often rely on outdated systems or manual processes, which can lead to inefficiencies, missed payments, and scheduling conflicts. A well-designed software system could address these pain points by automating workflows, improving data accuracy, and enhancing patient experience.
 
-## **The Problem**
-Small businesses frequently lack the resources to invest in expensive enterprise-level inventory management systems. For example, a local bookstore may struggle to track its sales and inventory effectively. Without accurate data, the owner might overstock certain books, tying up cash flow, or understock popular items, leading to lost revenue. The challenge lies in creating a system that is affordable, easy to use, and customizable for different types of small businesses.  
-
-## **The Problem Domain**
-The problem is situated in the domain of **small business management**. This domain encompasses the tools and processes used by small business owners to run their operations effectively, such as inventory, sales tracking, and financial reporting. Small businesses operate in a competitive environment where margins are often thin, and owners need tools that save time and reduce errors without requiring advanced technical skills.  
+## **Domain of Practice**
+The domain for this problem is healthcare administration, specifically tailored to small-scale diagnostic imaging centers like MRI facilities. The focus is on optimizing administrative tasks such as patient billing, appointment scheduling, and payment tracking.
 
 ## **My Interest**
-I have a personal interest in this domain because I come from a family of small business owners. My parents owned a café for over a decade, and I witnessed firsthand the challenges they faced in managing their inventory. As someone with a passion for technology, I believe that building software solutions can empower small business owners to streamline their operations and focus on growth.  
+I have a personal interest in this domain because I come from a family of small business owners. My dad has managed an MRI center since 2019, and I witnessed firsthand the challenges he faced in managing their patient collection. As someone with a passion for technology, I believe that building software solutions can empower small business owners to streamline their operations and focus on growth.
 
-## **The Proposed System**
-I want to design and prototype a **cloud-based inventory management system** specifically for small businesses. The system would allow users to:  
-- Track inventory in real-time, including stock levels, reorder points, and low-stock alerts.  
-- Visualize sales trends through dashboards and reports.  
-- Automatically generate purchase orders when stock falls below a specified threshold.  
-- Integrate with point-of-sale (POS) systems to sync sales and inventory data.  
+## **Proposed System**
+I envision a system called "MRI Care Manager," which would serve as a comprehensive solution for small diagnostic imaging centers. The system would include the following features:
 
-The prototype would focus on usability, offering a simple, intuitive interface with features that are easy for non-technical users to navigate. By creating this system, I aim to understand the design considerations needed to address the unique needs of small business owners.
+- **Appointment Scheduling:** A user-friendly interface for patients to book, reschedule, or cancel appointments online.
+- **Billing and Payment Tracking:** Automated billing processes with integration for online payment gateways.
+- **Patient Management:** A centralized database for storing and accessing patient records, including prior imaging history.
+- **Reporting and Analytics:** Tools to generate insights on patient flow, revenue, and operational efficiency.
+
+By prototyping "MRI Care Manager," I aim to gain a deeper understanding of healthcare administration challenges and explore how software design can address these issues effectively.
